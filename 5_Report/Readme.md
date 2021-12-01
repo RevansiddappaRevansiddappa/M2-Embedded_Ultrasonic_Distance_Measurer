@@ -54,3 +54,7 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 ## Flow chart 
 
 ![Behav drawio](https://user-images.githubusercontent.com/94313525/144277447-b0eda2d4-9b31-4f8f-a349-e3bbe423671b.png)
+
+## Block Diagram of the System
+![Block Diagram](https://user-images.githubusercontent.com/94313525/144278354-61e95040-def3-44ca-8e17-594f5c081622.png)
+
