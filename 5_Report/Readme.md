@@ -75,4 +75,19 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 Hd44780-104 : Hd44780   
 Potentiometer-286 : Potentiometer 1 kΩ
 SR04-114 : SR04   
-atmega328-105 : atmega328   
+atmega328-105 : atmega328  
+
+# TEST PLAN:
+### Table no: High level test plan
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
+| --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
+|  H_01   | Capable of measuring a distance of up to 400 cm | Choice  |  Display    |   As Expected | Requirement Based |
+|  H_02   |      High accuracy     |  Choice  |    Display   |   As Expected | Scenario based |
+|  H_03   | Measuring time lapses between the sending and receiving of the ultrasonic pulse | Choice | Display   |   As Expected | Requirement Based |
+
+### Table no: Low level test plan
+| Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
+| --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
+|  L_01   | Detection of clear objects | Choice | Display  | As Expected   | Scenario based |
+|  L_02   | Provide multiple range measurements per second | Choice | Display   | As Expected  | Requirement Based |
+
