@@ -35,6 +35,7 @@ Ultrasonic sensors can measure the distance to a wide range of objects regardles
 The device can be used in many different fields and categories like distance calculation in construction field, robots, car sensor to avoid obstacles and many other applications.
 #### How :
 Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are transmitted and whenever these strike an obstacle and return back in the from of an echo.  Difference of outgoing sound and returning echo gives us the distance.
+## Detail Requirements
 #### High Level Requirements
 | ID |           Description     |    Status   |
 | -- | ------------------------- | ----------- |
