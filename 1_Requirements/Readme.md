@@ -17,3 +17,10 @@ In this project I have used the HC-SR04 to measure distance in range of 2cm-400c
 #### Weaknesses
 - It is very sensitive to variation in the temperature.
 - It has more difficulties in reading reflections from soft, curved, thin and small objects.
+#### Opportunities
+- They have greater accuracy than many other methods at measuring thickness and distance to a parallel surface.
+- Their high frequency, sensitivity, and penetrating power make it easy to detect external or deep objects.
+#### Threats
+- Limited testing distance
+- Inaccurate readings 
+- Inflexible scanning methods
