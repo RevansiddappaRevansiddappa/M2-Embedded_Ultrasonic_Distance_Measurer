@@ -51,3 +51,6 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 | 1. | Suitable for close range detection up to ten meters | Implemented |
 | 2. | Provide multiple range measurements per second | Implemented |
 
+## Flow chart 
+
+![Behav drawio](https://user-images.githubusercontent.com/94313525/144277447-b0eda2d4-9b31-4f8f-a349-e3bbe423671b.png)
