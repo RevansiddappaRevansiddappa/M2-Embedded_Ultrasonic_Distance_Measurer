@@ -58,3 +58,7 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 ## Block Diagram of the System
 ![Block Diagram](https://user-images.githubusercontent.com/94313525/144278354-61e95040-def3-44ca-8e17-594f5c081622.png)
 
+## Structural Diagram
+![how-ultrasonic-sensor-works-1536x571](https://user-images.githubusercontent.com/94313525/144278615-f3f99fe9-3936-4da7-a4d3-861b8ac82368.png)
+
+
