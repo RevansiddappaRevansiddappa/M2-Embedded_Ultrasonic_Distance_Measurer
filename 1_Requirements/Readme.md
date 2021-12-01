@@ -41,8 +41,8 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 | -- | ------------------------- | ----------- |
 | 1. | The high-level signal is sent to 10 microseconds using Trigger | Implemented |
 | 2. | The module sends 40 KHz signals automatically and then detects whether the pulse is received or not through Echo | Implemented |
-| 2. | Capable of measuring a distance of up to 400 cm | Implemented |
-| 3. | It  can  be  further  enhanced  by  implementing improvements especially in its accuracy and portability | Future |
+| 3. | Capable of measuring a distance of up to 400 cm | Implemented |
+| 4. | It  can  be  further  enhanced  by  implementing improvements especially in its accuracy and portability | Future |
 #### Low Level Requirements
 | ID |        Description        |    Status   |
 | -- | ------------------------- | ----------- |
