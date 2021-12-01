@@ -3,7 +3,7 @@ This project uses an ultrasonic sensor to indicate the distance of any object fr
 
 | Build | Cppcheck | Codecy | 
 | ----- | ----- | ----- |
-| [![Build](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/compile.yml/badge.svg)](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/cpp-check.yml) |
+| [![Build](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/compile.yml/badge.svg)](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/cpp-check.yml/badge.svg)](https://github.com/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/actions/workflows/cpp-check.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5d080e3cb2694cc49568f57016a8b556)](https://www.codacy.com/gh/RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RevansiddappaRevansiddappa/M2-Embedded_Ultrasonic_Distance_Measurer&amp;utm_campaign=Badge_Grade) |
 # Folder Structure
 | Folder | Description |
 | ----- | ----- |
