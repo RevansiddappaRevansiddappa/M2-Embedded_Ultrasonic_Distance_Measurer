@@ -58,12 +58,12 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 ### Simulation Design
 ![Distance_1](https://user-images.githubusercontent.com/94313525/144282998-9f1eac42-671d-492f-b297-3241b333ea20.jpeg)
 ![Distance](https://user-images.githubusercontent.com/94313525/144283227-da977e3e-dee8-4531-b7cb-30820ae944fc.jpeg)
-### Bill of Materials:
+### Bill of Materials
 Hd44780-104 : Hd44780   
 Potentiometer-286 : Potentiometer 1 kΩ
 SR04-114 : SR04   
 atmega328-105 : atmega328  
-### TEST PLAN:
+### TEST PLAN
 ### Table no: High level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
