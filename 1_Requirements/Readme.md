@@ -24,3 +24,14 @@ In this project I have used the HC-SR04 to measure distance in range of 2cm-400c
 - Limited testing distance
 - Inaccurate readings 
 - Inflexible scanning methods
+## 4W's and 1'H
+#### Who :
+The importance of the project is calculating accurate distance from any obstacle that we want to measure. Ultrasonic sensors are used primarily as proximity sensors. They can be found in automobile self-parking technology and anti-collision safety systems.
+#### What :
+As the name indicates, ultrasonic sensors measure distance by using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the wave reflected back from the target. Ultrasonic Sensors measure the distance to the target by measuring the time between the emission and reception.
+#### When :
+Ultrasonic sensors can measure the distance to a wide range of objects regardless of shape, color or surface texture. They are also able to measure an approaching or receding object. By using “non-contact” ultrasonic sensors, distances can be measured without damage to the object.
+#### Where :
+The device can be used in many different fields and categories like distance calculation in construction field, robots, car sensor to avoid obstacles and many other applications.
+#### How :
+Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are transmitted and whenever these strike an obstacle and return back in the from of an echo.  Difference of outgoing sound and returning echo gives us the distance.
