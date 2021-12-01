@@ -70,3 +70,9 @@ Ultrasonic sensors are useful for measuring distances. Ultrasonic waves are tran
 
 ![Distance](https://user-images.githubusercontent.com/94313525/144283227-da977e3e-dee8-4531-b7cb-30820ae944fc.jpeg)
 
+## Bill of Materials:
+
+Hd44780-104 : Hd44780   
+Potentiometer-286 : Potentiometer 1 kΩ
+SR04-114 : SR04   
+atmega328-105 : atmega328   
