@@ -2,9 +2,9 @@
 ### Table no: High level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
-|  H_01   |  |   |    Accept    |   As Expected | Requirement Based |
-|  H_02   |           |    |    Display   |   As Expected | Requirement Based |
-|  H_03   | |  |    Display   |   As Expected | Requirement Based |
+|  H_01   | Capable of measuring a distance of up to 400 cm | Choice  |  Display    |   As Expected | Requirement Based |
+|  H_02   |      High accuracy     |  Choice  |    Display   |   As Expected | Scenario based |
+|  H_03   | Measuring time lapses between the sending and receiving of the ultrasonic pulse | Choice | Display   |   As Expected | Requirement Based |
 
 ### Table no: Low level test plan
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
