@@ -10,5 +10,4 @@
 | Test ID |           Description       |      Exp I/P    |    Exp O/P   |   Actual Out  |   Type Of Test |
 | --------| --------------------------- | --------------- | ------------ | ------------- | -------------- |
 |  L_01   | Detection of clear objects | Choice | Display  | As Expected   | Scenario based |
-|  L_02   | |    Choice       |    Display   | As Expected  | Requirement Based |
-|  L_03   |      |    Choice     |  Display       |  Success     | Requirement Based |
+|  L_02   | Provide multiple range measurements per second | Choice | Display   | As Expected  | Requirement Based |
